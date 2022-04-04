@@ -1,4 +1,4 @@
-# Cam-hacker
+
 Hack cameras Cctv with this tool around the world 🪐🐍
 # Cam-Hackers
 
@@ -10,7 +10,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/Nezha69/Cam-hacker.git
 
 * pip install -r requirements.txt
 
